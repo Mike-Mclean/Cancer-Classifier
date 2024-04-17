@@ -7,4 +7,4 @@ Uses a k-nearest neighbors algorithm to classify breast cancer data points. Crea
 
 The data is split into training and testing sets. The distance between the testing data points and the training datapoints is claculated. The k closest points are collected and the data point is classified as malignant if the majority of the k closest points are malignant. The data point will be classified as benign if the k closest points are benign.
 
-The accuracy of the classifier is then calculated for many different value of k. The accuracies are plotted against k to viualize k's affect of accuracy.
+The accuracy of the classifier is then calculated for many different value of k. The accuracies are plotted against k to vizualize k's affect on accuracy.
